@@ -1,0 +1,1 @@
+# 1. linux crontab write shell, add "#!/bin/bash"
